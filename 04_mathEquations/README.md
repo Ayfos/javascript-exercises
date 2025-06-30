@@ -1,23 +1,23 @@
-# Exercise 04 - mathEquations
+# Ejercicio 04 - mathEquations
 
-Replace the strings to the right of the `=` with the expression they describe. Do **not** manually enter the answers to the equation.
+Reemplaza las cadenas a la derecha del `=` con la expresión que describen. **No** pongas manualmente las respuestas de la ecuación.
 
-Currently, the variables are strings. They need to be math equations instead.
+Actualmente, las variables son cadenas de texto. Deben ser ecuaciones matemáticas en su lugar.
 
-To help you, the first variable has been completed for you:
+Para ayudarte, la primera variable ya está completada:
 ```js
-const a = 1 - 1 // Freebie!!! This is the answer to "one minus one"
+const a = 1 - 1 // ¡De regalo! Esta es la respuesta a "uno menos uno"
 ```
 
-The following is an example of the **wrong** answer:
+El siguiente es un ejemplo de **respuesta incorrecta**:
 ```js
-const a = 0 // WRONG!!! You need to write out the equation, NOT put the result of the equation directly!
+const a = 0 // ¡INCORRECTO! Debes escribir la ecuación, NO poner directamente el resultado de la ecuación.
 ```
 
-Feel free to run the test suite right now to see the first test pass, then go from there. Good luck!
+Si quieres, puedes ejecutar la suite de pruebas ahora mismo para ver que la primera prueba pasa, y luego continuar desde ahí. ¡Buena suerte!
 
-## Hints
+## Pistas
 
-- Look at the docs for arithmetic operators in JavaScript for a quick reference.
+- Consulta la documentación sobre operadores aritméticos en JavaScript para una referencia rápida.
 
-- Refer back to the [Variables and Operators lesson](https://www.theodinproject.com/lessons/foundations-variables-and-operators) if you are still stuck.
+- Revisa la [lección sobre Variables y Operadores](https://www.theodinproject.com/lessons/foundations-variables-and-operators) si sigues atascado.
